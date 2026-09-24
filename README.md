@@ -122,7 +122,7 @@ Language can be switched at runtime via **Settings** — no restart required.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/pandora-cybersec-toolkit.git
+git clone https://github.com/bosancero85/pandora-cybersec-toolkit.git
 cd pandora-cybersec-toolkit
 
 # 2. Install the GUI dependency
