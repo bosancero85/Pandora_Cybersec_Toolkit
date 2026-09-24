@@ -1,0 +1,39 @@
+MIT License
+
+Copyright (c) 2026 AKI_SystemDown® / Pandora®
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Additional Notice (Security Tool Usage):
+
+This software is a graphical interface that launches third-party, independently
+licensed security tools (e.g. Nmap, Nikto, SQLMap, Hydra, Aircrack-ng, and
+others) as external subprocesses. Those tools are NOT distributed as part of
+this repository and remain governed by their own respective licenses. This
+project grants no rights to, and assumes no responsibility for, the tools it
+merely invokes.
+
+This software must only be used against systems you own or for which you have
+obtained explicit, written authorization from the system owner. Unauthorized
+scanning, exploitation, credential attacks, or wireless/RF attacks performed
+using this software are illegal in most jurisdictions and are strictly the
+responsibility of the end user. The authors and copyright holders accept no
+liability for any misuse of this software.
