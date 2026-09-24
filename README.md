@@ -122,8 +122,8 @@ Language can be switched at runtime via **Settings** — no restart required.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/bosancero85/pandora-cybersec-toolkit.git
-cd pandora-cybersec-toolkit
+git clone https://github.com/bosancero85/Pandora_Cybersec_Toolkit.git
+cd Pandora_Cybersec_Toolkit
 
 # 2. Install the GUI dependency
 sudo apt install python3-pyqt6
